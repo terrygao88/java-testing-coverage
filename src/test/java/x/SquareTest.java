@@ -10,7 +10,7 @@ class SquareTest {
 	@Test
 	void normal() throws Exception {
 		
-		Square s = new Square (15);
+		Square s = new Square (19);
 		assertNotNull(s);
 		
 		//fail("Not yet implemented");
